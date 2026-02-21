@@ -99,7 +99,9 @@ The skill scans your codebase for:
 - A GitHub account
 - An iOS project to scan
 
-## Example output
+## Example
+
+See a live example generated with this skill: [Bouquet Book](https://chadnewbry.github.io/bouquet-book/)
 
 After running, you'll have a GitHub Pages site at:
 
